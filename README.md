@@ -1,3 +1,3 @@
 # searchShow
-Search a show. 
+Search a show.
 https://evanthialefa.github.io/searchShow/
